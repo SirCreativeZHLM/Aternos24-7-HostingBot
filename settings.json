@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "asheng.aternos.me",
-    "port": 57430,
+    "ip": "zashserver.aternos.me",
+    "port": 27550,
     "version": "",
     "try-creative": false
   },
